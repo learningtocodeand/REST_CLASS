@@ -15,17 +15,17 @@ let posts=[
     {
         id:uuidv4(),
         username: "monica",
-        content : "i am mad"
+        content : "The only way to do great work is to love what you do."
     },
     {
         id:uuidv4(),
         username: "nisha",
-        content : "i am crazy"
+        content : "Success is not final, failure is not fatal: It is the courage to continue that counts."
     },
     {
         id:uuidv4(),
         username: "lara",
-        content : "i am hehe"
+        content : "In the end, we only regret the chances we didn’t take."
     }
 ];
 
